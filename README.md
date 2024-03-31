@@ -1,5 +1,5 @@
 ####To Run the main program type on the terminal
-python -u "\main.py"
+- python -u "\main.py"
 
 #####Packages that need to be installed
 
