@@ -1,4 +1,4 @@
-apikey = "AIzaSyAznZyFo4DGePQdnHK310zZLO4I-LAadgI"
+apikey = "YOUR_API_KEY_GOOGLE_AI_STUDIO"
 
 generation_config = {
   "temperature": 0.9,
