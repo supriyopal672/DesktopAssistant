@@ -4,7 +4,6 @@ import webbrowser
 import google.generativeai as genai
 from config import apikey,generation_config,safety_settings
 import datetime
-import random
 import win32com.client
 import pyautogui
 import pywhatkit as pwt
