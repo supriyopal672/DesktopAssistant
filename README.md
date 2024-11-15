@@ -7,6 +7,6 @@
 - pip install pywin32
 - pip install google-generativeai
 - pip3 install PyAudio-0.2.11-cp311-cp311-win_amd64.whl
-- pip inatall SpeechRecognition
+- pip install SpeechRecognition
 - pip install pyautogui
 - pip install pywhatkit
